@@ -1,4 +1,4 @@
-# first_dart_project
+# splash screen - flutter
 
 A new Flutter project.
 
